@@ -6,7 +6,7 @@
     <message>
         <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="42"/>
         <source>About NINJA-IDE</source>
-        <translation type="unfinished">O NINJA-IDE</translation>
+        <translation>O NINJA-IDE</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="62"/>
@@ -15,23 +15,23 @@ cross-platform integrated development environment specially design
 to build Python Applications.
 NINJA-IDE provides tools to simplify the Python-software development
 and handles all kinds of situations thanks to its rich extensibility.</source>
-        <translation type="unfinished">NINJA-IDE (od: &quot;Ninja Is Not Just Another Ide&quot;), jest wieloplatformowym środowiskiem programistycznym stworzonym specjalnie do tworzenia aplikacji w Pythonie.
+        <translation>NINJA-IDE (od: &quot;Ninja Is Not Just Another Ide&quot;), jest wieloplatformowym środowiskiem programistycznym stworzonym specjalnie do tworzenia aplikacji w Pythonie.
 NINJA-IDE udostępnia narzędzia do uproszczenia rozwoju oprogramowania pisanego w Pythonie, oraz radzenia sobie z różnymi sytuacjami dzięki dużej rozszerzalności.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="68"/>
         <source>Version: %1</source>
-        <translation type="unfinished">Wersja: %1</translation>
+        <translation>Wersja: %1</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="70"/>
         <source>Website: &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Strona domowa: &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; </translation>
+        <translation>Strona domowa: &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; </translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="73"/>
         <source>Source Code: &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Kod źródłowy: &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
+        <translation>Kod źródłowy: &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -39,17 +39,17 @@ NINJA-IDE udostępnia narzędzia do uproszczenia rozwoju oprogramowania pisanego
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="321"/>
         <source>Add File to Project</source>
-        <translation type="unfinished">Dodaj plik do projektu</translation>
+        <translation>Dodaj plik do Projektu</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="331"/>
         <source>Add here!</source>
-        <translation type="unfinished">Dodaj tutaj!</translation>
+        <translation>Dodaj tutaj!</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="332"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -57,17 +57,17 @@ NINJA-IDE udostępnia narzędzia do uproszczenia rozwoju oprogramowania pisanego
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="277"/>
         <source>NINJA needs to be restarted for changes to take effect.</source>
-        <translation type="unfinished">NINJA potrzebuje restartu aby zmiany przyniosły efekt.</translation>
+        <translation>NINJA potrzebuje restartu aby zmiany przyniosły efekt.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="312"/>
         <source>External Plugins</source>
-        <translation type="unfinished">Zewnętrzne dodatki</translation>
+        <translation>Zewnętrzne dodatki</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="312"/>
         <source>URL from Plugin missing...</source>
-        <translation type="unfinished">Brakuje adresu URL do dodatku...</translation>
+        <translation>Brakuje adresu URL do dodatku...</translation>
     </message>
 </context>
 <context>
@@ -75,37 +75,37 @@ NINJA-IDE udostępnia narzędzia do uproszczenia rozwoju oprogramowania pisanego
     <message>
         <location filename="ninja_ide/gui/misc/console_widget.py" line="56"/>
         <source>Show/Hide (F4)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż/Ukryj (F4)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/console_widget.py" line="113"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Wytnij</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/console_widget.py" line="114"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/console_widget.py" line="115"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Wklej</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/console_widget.py" line="116"/>
         <source>Clean Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść konsolę</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/console_widget.py" line="117"/>
         <source>Copy History</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj historię</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/console_widget.py" line="118"/>
         <source>Copy Console Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj zawartość konsoli</translation>
     </message>
 </context>
 <context>
